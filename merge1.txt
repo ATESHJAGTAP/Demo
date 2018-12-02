@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_1g3nym
 sasasasa
+=======
+sasaass
+>>>>>>> .merge_file_BXOKtm
